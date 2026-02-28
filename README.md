@@ -1,53 +1,38 @@
-# Hi, I'm Héctor 👋
+# Héctor Labrador
 
-Computer Engineering graduate with a strong interest in Cybersecurity, Network Security and Digital Forensics.
+Computer Engineering graduate focused on cybersecurity, network security and applied cryptography.  
 
-I am particularly interested in understanding how systems can be exploited — and how to design them to be secure, resilient and robust against real-world attacks.
-
----
-
-## 🎯 Areas of Interest
-
-- Network Security
-- Vulnerability Analysis
-- Digital Forensics
-- Cryptography
-- Secure System Design
+I am particularly interested in secure system design, vulnerability analysis and defensive security mechanisms. My projects reflect hands-on experience in cryptography, web security testing and distributed systems.
 
 ---
 
-## 📚 Academic Cybersecurity Projects
+## 🔐 Highlighted Projects
 
-### 🔐 Password Manager (Python)
-Implementation of a secure password manager using asymmetric encryption and SHA-256 hashing to ensure confidentiality and integrity.
+### SecureBox – Encrypted Password Manager
+Cloud-based encrypted password manager using PBKDF2, AES-CFB and HMAC to guarantee confidentiality and integrity.
 
-### 🧪 Digital Forensics Case Simulation
-Forensic analysis of a simulated intrusion case:
-- Disk acquisition in a virtual machine
-- Evidence preservation and chain of custody
-- Artefact analysis and incident reconstruction
-- Technical documentation of findings
+### Web Application Security Assessment
+Security analysis of a web application using Burp Suite, identifying vulnerabilities such as XSS, IDOR, open redirect and session misconfiguration.
 
-### 🌐 Web Vulnerability Assessment
-Identification and analysis of critical vulnerabilities in a web application, including impact evaluation and mitigation proposals.
+### IoT MQTT Control Platform
+Distributed IoT platform using MQTT and a Discord bot with rule-based automation and persistence.
 
----
-
-## 🛠 Networking Projects
-
-- TCP/IP communication analysis
-- Packet inspection using Wireshark
-- Client-server socket implementation in Python
-- Port and service analysis
+### Multithreaded HTTP Server in C
+Custom HTTP server implementing GET/POST/OPTIONS with thread pool concurrency.
 
 ---
 
-## 📈 Currently Improving
+## 🛠 Technical Areas
 
-- Practical vulnerability analysis in controlled lab environments
-- Deepening knowledge in applied cryptography
-- Expanding hands-on experience in network security
+- Applied Cryptography (PBKDF2, AES, HMAC)
+- Web Security Testing (XSS, IDOR, Open Redirect)
+- Network Protocols & HTTP
+- MQTT & Distributed Messaging
+- Python & C
+- Secure Session Management
 
 ---
 
-Always learning. Always building. Always improving.
+## 🎯 Current Focus
+
+Expanding my knowledge in offensive security, secure architecture design and advanced defensive mechanisms.
